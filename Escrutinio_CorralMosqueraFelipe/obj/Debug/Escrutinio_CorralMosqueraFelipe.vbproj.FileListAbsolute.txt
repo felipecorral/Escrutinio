@@ -1,0 +1,11 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\bin\Debug\Escrutinio_CorralMosqueraFelipe.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\bin\Debug\Escrutinio_CorralMosqueraFelipe.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\bin\Debug\Escrutinio_CorralMosqueraFelipe.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\bin\Debug\Escrutinio_CorralMosqueraFelipe.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.vbprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.Form1.resources
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.Resources.resources
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.vbproj.GenerateResource.Cache
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Escrutinio_CorralMosqueraFelipe\Escrutinio_CorralMosqueraFelipe\obj\Debug\Escrutinio_CorralMosqueraFelipe.pdb
